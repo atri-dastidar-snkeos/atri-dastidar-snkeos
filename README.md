@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![My GitHub stats](https://github-readme-stats-csvbox.vercel.app/api?username=atri-dastidar-snkeos&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&ring_color=66e0ff&show_icons=true&theme=ambient_gradient)](https://github.com/atri-dastidar-snkeos)
 
 <!--
