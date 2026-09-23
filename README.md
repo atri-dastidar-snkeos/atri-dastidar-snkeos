@@ -1,4 +1,4 @@
-[![My GitHub stats](https://github-readme-stats-csvbox.vercel.app/api?username=atri-dastidar-snkeos&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&ring_color=66e0ff&show_icons=true&theme=ambient_gradient)](https://youtu.be/dQw4w9WgXcQ)
+[![My GitHub stats](https://github-stats-extended-frontend-swart-eight.vercel.app/api?username=atri-dastidar-snkeos&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://youtu.be/dQw4w9WgXcQ)
 
 <!--
 **atri-dastidar-snkeos/atri-dastidar-snkeos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
